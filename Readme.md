@@ -1,24 +1,80 @@
- ## Hi I'm Cabral <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43,200:2c5364&height=120&section=header&text=Cabral%20Chege&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Automation%20Thinker&descSize=16&descAlignY=60">
+</p>
 
-I'm Cabral Chege a Data Scientist. I Spend most of my time working on outstanding projects
-📧: Cabralowiro"gmail.com Reach out!
+---
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com) -->
+### 🧩 About Me  
+I’m a results-driven **data practitioner** focused on turning raw information into insights and automation systems that simplify decision-making.  
+My work blends **data analytics, reporting, and intelligent process design** — using Python to create systems that feel as seamless as they are powerful.
 
-<!-- TODO: Add last video link -->
+> “Good automation isn’t about replacing people — it’s about removing the repetitive, so humans can focus on the meaningful.”
 
- 🔭 I’m currently studying Data Science
+---
 
+<p align="center">
+  <img src="https://github.com/cabralchege/cabralchege/assets/placeholder-bar-dark.svg" alt="divider" width="80%">
+</p>
 
-#### Top Technologies
+### ⚙️ Featured Project — <b>KaziPay</b>  
+> Payroll automation that works as hard as you do.
 
-<!-- TODO: Make technologies links takes you to repositories -->
+KaziPay is a smart, lightweight payroll solution built to help SMEs automate PAYE calculations, employee management, and payslip generation.
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-<!-- [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+#### 🔧 Built With
+`Python` • `Pandas` • `ReportLab` • `Git`
 
+#### ✨ Highlights
+- Automated PAYE calculations compliant with KRA standards  
+- Professional PDF report and payslip generation  
+- Designed with clean data handling workflows  
+- Modular and integration-ready architecture  
 
-#### Github Stats
+<p align="center">
+  <img src="https://github.com/cabralchege/cabralchege/assets/placeholder-pdf-icon.svg" width="100" alt="PDF Icon" />
+</p>
 
+---
 
+### 🧠 Technical Snapshot
+| Focus Area | Toolkit |
+|-------------|----------|
+| Data Handling | Python • Pandas • NumPy |
+| Visualization | Matplotlib • Seaborn • Plotly |
+| Reporting | ReportLab • Excel Automation |
+| Workflow Automation | Python Scripts • CLI Tools |
+| Version Control | Git • GitHub |
+| Future Focus | Flask • Streamlit • Power BI |
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0f2027,100:2c5364&section=footer&reversal=true">
+</p>
+
+### 🪶 Work Philosophy  
+> “Data science is not about complexity — it’s about clarity. My goal is to make data-driven systems that feel human, fast, and reliable.”
+
+---
+
+<p align="center">
+  <img src="https://github.com/cabralchege/cabralchege/assets/placeholder-line.svg" width="70%">
+</p>
+
+### 📬 Let’s Connect  
+<p align="center">
+  <a href="https://github.com/cabralchege"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://linkedin.com/in/cabralchege"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:cabralchege@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
+
+<p align="center">
+  <sub>“Automate what’s boring. Analyze what matters.”</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=40&section=footer&fontColor=ffffff&fontAlignY=20&text=Thanks%20for%20visiting!">
+</p>
