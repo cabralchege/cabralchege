@@ -8,9 +8,9 @@
   <strong>Machine Learning Engineer | Data Scientist | Data Analyst</strong>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <em>I work with data until it behaves.</em>
-</p>
+</p> -->
 
 ---
 
@@ -22,7 +22,7 @@ Occasionally they’re engineering problems.
 
 Almost always, they’re systems problems.
 
-I build with that in mind — not just models, but pipelines that can be traced, evaluated, stress-tested, and improved over time.
+I build with that in mind, not just models, but pipelines that can be traced, evaluated, stress-tested, and improved over time.
 
 I work across domains.  
 The constant is structure, experimentation, and reliability.
@@ -54,10 +54,10 @@ The constant is structure, experimentation, and reliability.
 ---
 
 <p align="center">
-  <strong>If you're building something where accuracy, clarity, and long-term reliability matter — I’m interested.</strong>
+  <strong>If you're building something where accuracy, clarity, and long-term reliability matter. I’m interested.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cabralchege/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/cabralchege/">LinkedIn</a> |
   <a href="mailto:cabralowiro@gmail.com">Email</a>
 </p>
