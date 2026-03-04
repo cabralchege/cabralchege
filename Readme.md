@@ -1,80 +1,68 @@
-<!-- Banner -->
+<!-- ===================== -->
+<!--        BANNER         -->
+<!-- Replace with custom dark gradient banner -->
+<!-- ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43,200:2c5364&height=120&section=header&text=Cabral%20Chege&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Automation%20Thinker&descSize=16&descAlignY=60">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000943c71f59d524865385d79ca&ts=492405&p=fs&cid=1&sig=3c5c0b718738758e1961dd18077153c4fa2996b404fc53918508440a2db035b3&v=0" width="100%" />
+</p>
+
+<h1 align="center">Cabral Chege</h1>
+
+<p align="center">
+  <strong>Machine Learning Engineer | Data Scientist | Data Analyst</strong>
+</p>
+
+<p align="center">
+  <em>I work with data until it behaves.</em>
 </p>
 
 ---
 
-### 🧩 About Me  
-I’m a results-driven **data practitioner** focused on turning raw information into insights and automation systems that simplify decision-making.  
-My work blends **data analytics, reporting, and intelligent process design** — using Python to create systems that feel as seamless as they are powerful.
+Most problems look like modeling problems.
 
-> “Good automation isn’t about replacing people — it’s about removing the repetitive, so humans can focus on the meaningful.”
+They’re usually framing problems.  
+Sometimes they’re data problems.  
+Occasionally they’re engineering problems.
+
+Almost always, they’re systems problems.
+
+I build with that in mind — not just models, but pipelines that can be traced, evaluated, stress-tested, and improved over time.
+
+I work across domains.  
+The constant is structure, experimentation, and reliability.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/cabralchege/cabralchege/assets/placeholder-bar-dark.svg" alt="divider" width="80%">
-</p>
-
-### ⚙️ Featured Project — <b>KaziPay</b>  
-> Payroll automation that works as hard as you do.
-
-KaziPay is a smart, lightweight payroll solution built to help SMEs automate PAYE calculations, employee management, and payslip generation.
-
-#### 🔧 Built With
-`Python` • `Pandas` • `ReportLab` • `Git`
-
-#### ✨ Highlights
-- Automated PAYE calculations compliant with KRA standards  
-- Professional PDF report and payslip generation  
-- Designed with clean data handling workflows  
-- Modular and integration-ready architecture  
+### Core Stack
 
 <p align="center">
-  <img src="https://github.com/cabralchege/cabralchege/assets/placeholder-pdf-icon.svg" width="100" alt="PDF Icon" />
+
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1f2937?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 </p>
 
 ---
 
-### 🧠 Technical Snapshot
-| Focus Area | Toolkit |
-|-------------|----------|
-| Data Handling | Python • Pandas • NumPy |
-| Visualization | Matplotlib • Seaborn • Plotly |
-| Reporting | ReportLab • Excel Automation |
-| Workflow Automation | Python Scripts • CLI Tools |
-| Version Control | Git • GitHub |
-| Future Focus | Flask • Streamlit • Power BI |
+### Working Principles
+
+- Reproducible experiments  
+- Measured performance  
+- Robust pipelines  
+- Deployment-aware design  
+- Clear evaluation frameworks  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0f2027,100:2c5364&section=footer&reversal=true">
-</p>
-
-### 🪶 Work Philosophy  
-> “Data science is not about complexity — it’s about clarity. My goal is to make data-driven systems that feel human, fast, and reliable.”
-
----
-
-<p align="center">
-  <img src="https://github.com/cabralchege/cabralchege/assets/placeholder-line.svg" width="70%">
-</p>
-
-### 📬 Let’s Connect  
-<p align="center">
-  <a href="https://github.com/cabralchege"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://linkedin.com/in/cabralchege"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:cabralchege@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <strong>If you're building something where accuracy, clarity, and long-term reliability matter — I’m interested.</strong>
 </p>
 
 <p align="center">
-  <sub>“Automate what’s boring. Analyze what matters.”</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=40&section=footer&fontColor=ffffff&fontAlignY=20&text=Thanks%20for%20visiting!">
+  <a href="https://www.linkedin.com/in/cabralchege/">LinkedIn</a> • 
+  <a href="mailto:cabralowiro@gmail.com">Email</a>
 </p>
