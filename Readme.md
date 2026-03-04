@@ -1,10 +1,5 @@
-<!-- ===================== -->
-<!--        BANNER         -->
-<!-- Replace with custom dark gradient banner -->
-<!-- ===================== -->
-
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000943c71f59d524865385d79ca&ts=492405&p=fs&cid=1&sig=3c5c0b718738758e1961dd18077153c4fa2996b404fc53918508440a2db035b3&v=0" width="100%" />
+  <img src="/assets/Cabral Chege - machine learning vision.png" width="100%", alt="Cabral Chege Banner" />
 </p>
 
 <h1 align="center">Cabral Chege</h1>
